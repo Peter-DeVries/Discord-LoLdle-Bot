@@ -1,5 +1,5 @@
 # Discord LoLdle Bot
-Discord Bot for playing LoLdle (League of Legends Wordle). You can either add my bot (which will be generally running 24/7 outside of bug fixes) or add your own. Here is a quick video of the bot in action.
+Discord Bot for playing LoLdle (League of Legends Wordle). You can either add my bot or add your own. Here is a quick video of the bot in action.
 
 https://user-images.githubusercontent.com/71617666/185721537-afe9c80a-98ca-4a0b-a669-943210c7d404.mp4
 
@@ -16,7 +16,7 @@ LoLdle utilizes slash commands in discord to function. Here are a few commands t
 
 ## Setting Up The LoLdle Bot
 
-To add my bot, you can add it to your own discord server using [this link](https://discord.com/api/oauth2/authorize?client_id=1009975930476835007&permissions=11264&scope=bot%20applications.commands). It's running on a server 24/7 and periodically will be reset in case things break.
+To add my bot, you can add it to your own discord server using [this link](https://discord.com/api/oauth2/authorize?client_id=1009975930476835007&permissions=11264&scope=bot%20applications.commands). The bot's server is currently disabled, but if there's a need for it to be run, let me know (I currently only have 500 hours on heroku--cloud server free version--which is about half the month).
 
 ## Setting Up From Codebase
 
