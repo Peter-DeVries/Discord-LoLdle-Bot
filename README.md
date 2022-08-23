@@ -16,7 +16,7 @@ LoLdle utilizes slash commands in discord to function. Here are a few commands t
 
 ## Setting Up The LoLdle Bot
 
-To add my bot, you can add it to your own discord server using [this link](https://discord.com/api/oauth2/authorize?client_id=1009975930476835007&permissions=11264&scope=bot%20applications.commands). The bot's server is currently disabled, but if there's a need for it to be run, let me know (I currently only have 500 hours on heroku--cloud server free version--which is about half the month).
+To add my bot, you can add it to your own discord server using [this link](https://discord.com/api/oauth2/authorize?client_id=1009975930476835007&permissions=11264&scope=bot%20applications.commands). The bot's server is currently disabled, but if there's a need for it to be run, let me know (I use heroku for the cloud server, and only get 500 hours a month, which is why the bot is not up 24/7).
 
 ## Setting Up From Codebase
 
